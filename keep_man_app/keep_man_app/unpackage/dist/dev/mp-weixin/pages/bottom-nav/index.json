@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "导航页",
+  "usingComponents": {
+    "cmd-nav-bar": "/components/cmd-nav-bar/cmd-nav-bar",
+    "cmd-page-body": "/components/cmd-page-body/cmd-page-body",
+    "cmd-transition": "/components/cmd-transition/cmd-transition",
+    "cmd-bottom-nav": "/components/cmd-bottom-nav/cmd-bottom-nav",
+    "home": "/pages/bottom-nav/home/home",
+    "person": "/pages/bottom-nav/person/person"
+  }
+}

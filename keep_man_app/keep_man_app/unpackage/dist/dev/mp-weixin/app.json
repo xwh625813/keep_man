@@ -1,0 +1,24 @@
+{
+  "pages": [
+    "pages/bottom-nav/index",
+    "pages/bottom-nav/home/home",
+    "pages/bottom-nav/person/person"
+  ],
+  "subPackages": [
+    {
+      "root": "pages/user",
+      "pages": [
+        "login/login",
+        "register/register",
+        "modify/modify",
+        "forgot/forgot",
+        "info/info"
+      ]
+    }
+  ],
+  "window": {
+    "navigationStyle": "custom"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}
